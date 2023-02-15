@@ -1,12 +1,12 @@
 {
-  "name": "basic-react-boilerplate",
+  "name": "tdd-button",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack serve --mode development",
-    "test": "jest"
+    "test": "jest --watch"
   },
   "keywords": [],
   "author": "",
